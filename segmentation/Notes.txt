@@ -1,3 +1,12 @@
+1. Business case and determine the segments (segment on what columns)
+2. Data dictionary and column selection (get rid of unrelated ones after going through all the columns)
+3. Descriptive analysis on the selected variables from above and feature engineering
+4. Which clustering alogos to use after feature engineering
+5. perform clustering
+
+
+
+
 Categorical:
 Obs
 AU
